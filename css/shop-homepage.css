@@ -5,6 +5,7 @@
  */
  body {
     padding-top: 56px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   
   .ar-button{
@@ -13,3 +14,23 @@
       float: right;
       right: 5px;
   }
+
+  .chair-name{
+    text-decoration: none;
+    color: #212121;
+  }
+
+
+
+  .parag{
+    font-size: 1.2em;
+    font-weight: 450;
+    border-bottom: solid 1px black;
+    width: 100%;
+    padding-bottom: 1.5em;
+  }
+
+  .introtext{
+    
+  }
+  
